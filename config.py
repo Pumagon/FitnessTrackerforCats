@@ -1,6 +1,6 @@
 # [wifi]
-ssid = "Not Connected"
-password = "r3avnpmmfr!234"
+ssid = "*************"
+password = "****************"
 wifiRetrySec = 1
 
 # [time]
@@ -14,9 +14,9 @@ thisMachineHasDisplay = True
 thisMachineHasConsole = False
 
 # [kintone]
-sdomain = "karube"
-appId = "19"
-token = "ZBEVk7MQ7W1YFQCTXKowOEPqCyWvqZOJNgUFMPtd"
+sdomain = "*******8"
+appId = "**"
+token = "********************"
 
 # [bmi160]
 activityThreshold = 0.1
